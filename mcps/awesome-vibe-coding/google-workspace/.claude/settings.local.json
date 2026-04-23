@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__google-workspace__googleDrive",
+      "Bash(gcloud auth:*)",
+      "Bash(claude mcp:*)",
+      "Bash(python3 -m json.tool)",
+      "mcp__google-workspace__googleCalendar"
+    ]
+  }
+}

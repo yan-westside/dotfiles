@@ -1,0 +1,22 @@
+# Secrets — never commit these
+credentials.json
+token.json
+*.env
+.env*
+*.key
+*_token.json
+*_credentials.json
+
+# Node
+node_modules/
+dist/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "google-workspace": {
+      "command": "node",
+      "args": [
+        "~/.awesome-mcps/google-workspace-mcp/dist/index.js"
+      ]
+    }
+  }
+}
